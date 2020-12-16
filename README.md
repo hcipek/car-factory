@@ -9,8 +9,11 @@ Any other value will return INVALID_VALUE message.
 How to use;
 
 Import Project with your IDE,
+
 Run the application.
+
 Use Postman with given URL Requests.
+
 Available Requests
  http://localhost:8080/api/
   Requires : None
