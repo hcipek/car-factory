@@ -1,12 +1,11 @@
-# car-factory
- Project Car Factory
+# Project Car Factory
 
 This project is returns a String to Client, depends on parameter sended.
 Available Parameter Values : Cabrio, Sedan, Hatchback.
 
 Any other value will return INVALID_VALUE message.
 
-How to use;
+# How to use;
 
 Import Project with your IDE,
 
@@ -14,7 +13,7 @@ Run the application.
 
 Use Postman with given URL Requests.
 
-Available Requests
+# Available Requests
 
  http://localhost:8080/api/
   Requires : None
