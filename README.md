@@ -15,6 +15,7 @@ Run the application.
 Use Postman with given URL Requests.
 
 Available Requests
+
  http://localhost:8080/api/
   Requires : None
   Returns  : A warm welcome.
